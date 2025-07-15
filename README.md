@@ -17,6 +17,20 @@
 - **Firebase** (optional) – Backend, auth, and storage
 - **Google Maps API** – Location services (if enabled)
 
+## 🧪 Demo
+
+> _Coming soon: Screenshots or demo GIFs._
+
+## 📦 Installation
+
+To run the project locally:
+
+```bash
+git clone https://github.com/eddiiieh/findit-app.git
+cd findit-app
+flutter pub get
+flutter run
+
 ⚙️ Configuration
 If using Firebase or Google APIs, be sure to:
 
@@ -57,17 +71,3 @@ Pull requests are welcome. For major changes, open an issue first to discuss wha
 
 📄 License
 This project is licensed under the MIT License — see the LICENSE file for details.
-
-## 🧪 Demo
-
-> _Coming soon: Screenshots or demo GIFs._
-
-## 📦 Installation
-
-To run the project locally:
-
-```bash
-git clone https://github.com/eddiiieh/findit-app.git
-cd findit-app
-flutter pub get
-flutter run
