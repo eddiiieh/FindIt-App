@@ -1,6 +1,6 @@
 # 📱 FindIt App
 
-**FindIt** is a mobile app built with Flutter designed to help users easily locate and access specific services, businesses, or resources within a defined area. Whether you're looking for local shops, lost items, or key facilities, FindIt makes discovery fast and intuitive.
+**FindIt** is a mobile app built with Flutter designed to help users easily locate and access their lost items, or key facilities. FindIt makes discovery fast and intuitive.
 
 ## 🌟 Key Features
 
