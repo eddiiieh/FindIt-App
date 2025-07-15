@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "763963369179",
+    "project_id": "findit-17d5e",
+    "storage_bucket": "findit-17d5e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763963369179:android:0db973045b201456198efe",
+        "android_client_info": {
+          "package_name": "com.example.find_it"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763963369179-6bgt26pc8eb3l8hph10b7298m7le22df.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.find_it",
+            "certificate_hash": "18f988843f6b7839fa15e3fb37192cd864c97b75"
+          }
+        },
+        {
+          "client_id": "763963369179-u9o2go58m5tne6lja7irdipns3a34m4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlCBYGawvrjelIw_kUTmCxCSFsuKuIZGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763963369179-u9o2go58m5tne6lja7irdipns3a34m4o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

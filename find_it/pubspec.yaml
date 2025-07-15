@@ -1,0 +1,54 @@
+name: find_it
+description: "A lost and found items app."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  google_fonts: ^6.2.1  
+  flutter_native_splash: ^2.4.4
+  flutter_svg: ^2.0.5
+  provider: ^6.1.2
+  shared_preferences: ^2.5.2
+  image_picker: ^1.1.2
+  uuid: ^4.3.3
+
+  # Add Firebase and Google Sign-In dependencies
+  firebase_core: ^2.30.1  
+  firebase_auth: ^4.19.3  
+  google_sign_in: ^6.2.1  
+  firebase_app_check: ^0.2.2
+  supabase_flutter: ^2.8.4
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  flutter_secure_storage: ^8.0.0
+  firebase_messaging: ^14.9.4
+  intl: ^0.20.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+  flutter_launcher_icons: ^0.14.3
+  supabase: ^2.6.3
+
+flutter:
+  uses-material-design: true
+
+  # Assets should be inside the `flutter` section
+  assets:
+    - assets/images/logo.png
+
+flutter_native_splash:
+  color: "#ffffff"
+  image: assets/images/logo.png
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: assets/images/logo.png 
